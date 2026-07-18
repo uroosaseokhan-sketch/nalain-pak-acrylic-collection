@@ -1,0 +1,62 @@
+[
+  {
+    "id": "nalain-pak-badge",
+    "name": "Nalain Pak Badge",
+    "category": "badges",
+    "price": 130,
+    "size": "2\" x 2\"",
+    "colors": ["Gold on Red", "Mirror Red", "Blue/Silver", "Emerald Gold", "Green/Gold"],
+    "image": "images/badge-gold-red.jpg",
+    "description": "The classic Nalain Pak sandal-print badge, laser-cut in fine acrylic. Available in six finishes — built for cars, bags, and Mawlid gifting."
+  },
+  {
+    "id": "nalain-pak-11in",
+    "name": "Nalain Pak Car Hanging – 11 inch",
+    "category": "hangings",
+    "price": 600,
+    "size": "11 inch",
+    "colors": ["Gold on Red", "Blue/Silver"],
+    "image": "images/hanging-11in.jpg",
+    "description": "Intricate geometric Nalain Pak cutwork on 11-inch acrylic, hung from a gold-tone chain. Fits any rear-view mirror."
+  },
+  {
+    "id": "nalain-pak-12in",
+    "name": "Nalain Pak Car Hanging – 12 inch",
+    "category": "hangings",
+    "price": 850,
+    "size": "12 inch",
+    "colors": ["Gold on Red", "Emerald/Gold"],
+    "image": "images/hanging-12in.jpg",
+    "description": "Our largest Nalain Pak design — 12 inches of fine laser-cut acrylic detail, ideal for a statement hang or wall display."
+  },
+  {
+    "id": "nalain-pak-5mm",
+    "name": "Nalain Pak – 5mm Premium Acrylic",
+    "category": "hangings",
+    "price": 850,
+    "size": "5mm thick",
+    "colors": ["Gold on Red", "Green/Gold"],
+    "image": "images/hanging-5mm.jpg",
+    "description": "Our thickest, most durable acrylic build — 5mm premium plate for a heavier, more substantial hang."
+  },
+  {
+    "id": "ayat-al-kursi-hanging",
+    "name": "Ayat al-Kursi Car Hanging",
+    "category": "hangings",
+    "price": 700,
+    "size": "Standard round",
+    "colors": ["Gold/Black"],
+    "image": "images/ayat-al-kursi.jpg",
+    "description": "Ayat al-Kursi engraved in gold on a black acrylic medallion, with a matching 'Allah' pendant above and gold bead chain."
+  },
+  {
+    "id": "asma-ul-husna-hanging",
+    "name": "Asma-ul-Husna Wall & Car Hanging",
+    "category": "hangings",
+    "price": 750,
+    "size": "Round, wall or car",
+    "colors": ["Multicolor on Ivory"],
+    "image": "images/asma-ul-husna.jpg",
+    "description": "The 99 Names of Allah arranged in concentric acrylic rings around a central 'Allah' medallion — for the car or the wall."
+  }
+]
